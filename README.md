@@ -1,4 +1,3 @@
-readme_content = """
 # Movie Recommendation System
 
 This repository contains a movie recommendation system implemented using various machine learning algorithms. The purpose of this project is to provide personalized movie suggestions based on a user's preferences.
